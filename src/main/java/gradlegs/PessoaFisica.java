@@ -1,6 +1,6 @@
 package gradlegs;
 
-public class Pessoa {
+public class PessoaFisica extends Pessoa{
     private String cpf;
 
     public void setNome(String cpf) {
